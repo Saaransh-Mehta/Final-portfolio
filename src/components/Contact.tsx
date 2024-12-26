@@ -24,8 +24,8 @@ const Contact = () => {
         </div>
 
         <div className='bg-white/10 p-6  rounded-xl max-w-[550px]'>
-            <h2 className='text-5xl font-bold text-orange-400 mb-4'>Let's Connect</h2>
-            <p className='text-white/70 mb-6'>Send Message and let's Schedule a call!</p>
+            <h2 className='text-5xl font-bold text-orange-400 mb-4'>Let&apos;s Connect</h2>
+            <p className='text-white/70 mb-6'>Send Message and let&apos;s Schedule a call!</p>
             <form action={"https://getform.io/f/bgddowea"} method='POST' className='space-y-4'>
                 <div className='grid md:grid-cols-2 gap-4'>
                     <input className='bg-black/70 rounded-xl p-3 focus:outline-none focus:ring-2 focus:ring-orange-400' placeholder='First Name' type="text" name='name' />
