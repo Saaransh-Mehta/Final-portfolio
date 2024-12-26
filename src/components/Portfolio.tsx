@@ -3,8 +3,7 @@ import React from 'react'
 import { motion } from 'motion/react'
 import Image from 'next/image'
 import project1 from '../assets/project.jpg'
-import project2 from '../assets/proj2.jpg'
-import project3 from '../assets/proj3.png'
+
 
 
 const projects = [

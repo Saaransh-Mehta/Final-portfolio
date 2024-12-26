@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import { FaLinkedin,FaTwitter,FaInstagram } from 'react-icons/fa'
+
 import Image from 'next/image'
 import mail from '../assets/mail.png'
 import phone from '../assets/phone.png'

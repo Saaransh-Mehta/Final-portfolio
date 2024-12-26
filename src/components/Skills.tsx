@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import { motion } from 'motion/react'
+
 import { FaCss3, FaDatabase, FaHtml5, FaJsSquare, FaNodeJs, FaReact } from 'react-icons/fa'
 
 
