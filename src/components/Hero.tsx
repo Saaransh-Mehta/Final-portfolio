@@ -44,7 +44,7 @@ const Hero = () => {
                 </motion.div>
         
         <p className='text-xl w-1/2 mx-auto mt-8 text-center text-white '>
-          I'm a fullStack developer with a passion for creating beautiful and functional user experiences.
+          I am a fullStack developer with a passion for creating beautiful and functional user experiences.
         </p>
         <Image
         src={profilePic}
